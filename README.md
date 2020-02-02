@@ -1,24 +1,31 @@
-# README
+Animal Shelter
+This API contains a database of the animals available at an animal shelter.
+By Bryon Burke
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Setup/Installation Requirements
+clone and open the file locally
+in terminal run:
+$git clone https://github.com/BryonBurke/review_foods
 
-* Ruby version
+in terminal run:
+  rake db:create
+  rake db:migrate
+  rake db:seed
+  rails s
+  open postman and navigate to: localhost:3000
 
-* System dependencies
+Known Bugs
+No known bugs
 
-* Configuration
+Support and contact details
+_If you have any issues with the program or want to reach out, email bryonparis@gmail.com
 
-* Database creation
+Technologies Used
+This program utilized:
 
-* Database initialization
+RUBY and was built on Atom
+License
+Licensed under MIT license
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* 
+Copyright (c) 2020 Bryon Burke
