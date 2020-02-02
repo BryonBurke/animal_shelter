@@ -6,7 +6,7 @@ By Bryon Burke
 Setup/Installation Requirements
 clone and open the file locally
 in terminal run:
-$git clone https://github.com/BryonBurke/review_foods
+$git clone https://github.com/BryonBurke/animal_shelter
 
 in terminal run:
   rake db:create
