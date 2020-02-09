@@ -17,12 +17,14 @@ ENDPOINTS
 
 
 
-Setup/Installation Requirements
-clone and open the file locally
-in terminal run:
+|Setup/Installation Requirements: clone and open the file locally|
+|---|
+|in terminal run:
 $git clone https://github.com/BryonBurke/animal_shelter
+navigate to the animal_shelter folder
 
-in terminal run:
+|in terminal run:|
+|---|
   rake db:create
   rake db:migrate
   rake db:seed
