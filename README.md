@@ -3,6 +3,18 @@ This API contains a database of the animals available at an animal shelter.
 By Bryon Burke
 
 
+ENDPOINTS
+
+    Task                  Verb      Path
+
+Create an animal:         POST    /animals
+Show all animals:         GET     /animals
+Update/Edit an animal:    PATCH   /animals/:id
+                          PUT     /animals/:id
+Delete an animal          DELETE  /animals/:id        
+
+
+
 Setup/Installation Requirements
 clone and open the file locally
 in terminal run:
