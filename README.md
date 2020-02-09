@@ -31,17 +31,15 @@ navigate to the animal_shelter folder
   rails s
   open postman and navigate to: localhost:3000
 
-Known Bugs
+Known Bugs:
 No known bugs
 
 Support and contact details
-_If you have any issues with the program or want to reach out, email bryonparis@gmail.com
+If you have any issues with the program or want to reach out, email bryonparis@gmail.com
 
-Technologies Used
-This program utilized:
+Technologies Used:
+This program utilized RUBY and was built on Atom
 
-RUBY and was built on Atom
-License
 Licensed under MIT license
 
 Copyright (c) 2020 Bryon Burke
