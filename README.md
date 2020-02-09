@@ -10,8 +10,7 @@ ENDPOINTS
 |Create an animal:   | POST  |/animals   |
 |Show all animals:   | GET   |/animals   |
 |Show one animal:   | GET   |/animals/:id   |
-| Update/Edit an animal:  |PATCH   | /animals/:id  |
-| Update/Edit an animal:  |PUT  | /animals/:id  |
+| Update an animal:  |PUT  | /animals/:id  |
 | Delete an animal:  | DELETE  | /animals/:id |     
 
 
